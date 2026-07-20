@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "freee-mcp-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "freee/freee-mcp"
+      },
+      "autoUpdate": true
+    }
+  },
+  "enabledPlugins": {
+    "freee-mcp@freee-mcp-marketplace": true
+  }
+}

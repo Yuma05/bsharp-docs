@@ -17,3 +17,6 @@
 #### ✅ Task DB（タスク管理）
 - Database ID: `3a3c841d6a5b80bcb157ebed35b90263`
 - Data Source ID*: `3a3c841d-6a5b-8062-915b-000b915cc198`（`notion-query-data-sources` 用）
+
+## freee 連携
+デフォルト事業所は Bsharp（会社ID: `12700369`）。
